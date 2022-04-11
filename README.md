@@ -1,0 +1,3 @@
+- Exercício que fiz em uma aula de Desenvolvimento WEB na faculdade. 
+- Aprendi a fazer alguns comandos do JavaScript.
+- A estilzaçaõ das tabelas e do site fiz por minha conta.
